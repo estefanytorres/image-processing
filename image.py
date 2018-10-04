@@ -5,7 +5,6 @@ import matplotlib.image as mpimg
 import os
 import math
 
-# image class for the course implementations
 class image:
     
     def __init__(self, img):
